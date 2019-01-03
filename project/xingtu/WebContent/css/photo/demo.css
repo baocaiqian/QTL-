@@ -1,0 +1,52 @@
+body, html { font-size: 100%; 	padding: 0; margin: 0;}
+
+/* Reset */
+*,
+*:after,
+*:before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+/* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
+.clearfix:before,
+.clearfix:after {
+	content: " ";
+	display: table;
+}
+
+.clearfix:after {
+	clear: both;
+}
+
+body{
+	font-weight: 500;
+	font-size: 1.05em;
+	font-family: "Microsoft YaHei","Segoe UI", "Lucida Grande", Helvetica, Arial,sans-serif;
+}
+
+/*全屏显示大图*/
+    .opacityBottom{
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        background:rgba(0,0,0,0.8);
+        z-index:1000;
+        top: 0;
+        left: 0
+    }
+    .none-scroll{
+        overflow: hidden;
+        height: 80%;
+    }
+    .bigImg{
+        width:80%;
+        height: 80%;
+        left:10%;
+        top:10%;
+        position:fixed;
+        z-index: 10001;
+
+    }
+

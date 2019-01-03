@@ -1,0 +1,38 @@
+@charset "UTF-8";
+.cd-item{
+	list-style: none;
+	 width:250px;
+     margin:10px;
+     float: left;
+     position: relative;
+}
+.cd-trigger {
+  position: absolute;
+  height: 50px;
+  line-height: 50px;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.1);
+  text-align: center;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #ffffff;
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transition: opacity 0.2s, background-color 0.2s;
+  -moz-transition: opacity 0.2s, background-color 0.2s;
+  transition: opacity 0.2s, background-color 0.2s;
+}
+.no-touch .cd-trigger:hover {
+  background: rgba(0, 0, 0, 0.2);
+}
+  .touch .cd-item .cd-trigger {
+    opacity: 1;
+  }
+  
+  .addmiaoshu{
+  	border: 1px solid #ccc;
+  	width: 600px;
+  	height: 600px;
+  }

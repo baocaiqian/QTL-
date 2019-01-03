@@ -1,0 +1,175 @@
+.all{
+	background-color:#000;
+	width:100%;
+	height:auto;
+}
+.left{
+	width:20%;
+	height:800px;
+	text-align:center;
+	float:left;
+}
+.myright{
+	width:73%;
+	height:803px;
+	float:right;
+}
+.tit{
+	width:50%;
+	height:50px;
+	font-size:30px;
+}
+#titna{
+	width:100%;
+	height:600px;
+}
+#did0{
+	width:90%;
+	height:50px;
+	margin:5%;
+	font-size:16px;
+	line-height:50px;
+	text-align:center;
+	border:1px dotted #ccc;
+}
+#myci1,#myci2,#myci3,#myci4,#myci5,#myci6,#myci7{
+	width:75%;
+	height:50px;
+	line-height:50px;
+	margin: auto;
+	margin-bottom:10px;
+	border: 1px solid #ccc;
+	text-align: center;
+}
+#dizhi1,#dizhi2,#dizhi3,#dizhi4,#dizhi5,#dizhi6,#dizhi7{
+	font-size:25px;
+	/*float:left;*/
+	display:inline;
+	float:left;
+}
+#tis1,#tis2,#tis3,#tis4,#tis5,#tis6,#tis7{
+	display:inline;
+	font-size:20px;
+	float:left;
+}
+#lef1,#lef2,#lef3,#lef4,#lef5,#lef6,#lef7{
+	width:20px;
+	height:20px;
+	display:inline;
+	margin: 10px;
+	float:left;
+} 
+#rig1,#rig2,#rig3,#rig4,#rig5,#rig6,#rig7{
+	width:20px;
+	height:20px;
+	display:inline;
+	margin: 10px;
+	float:left;
+}
+#del1,#del2,#del3,#del4,#del5,#del6,#del7{
+	width:20px;
+	height:20px;
+	margin-top:15px;
+	display:inline;
+	margin-left: 8%;
+	float:right;
+}
+#dim1,#dim2,#dim3,#dim4,#dim5,#dim6,#dim7 input{
+	font-size: 16px;
+	font-weight: 300;
+}
+#tianjia{
+	width:220px;
+	height:40px;
+	font-size:19px;
+	margin-top:20px;
+	margin-left:15px;
+	text-align:center;
+	float:left;
+}
+#tianjia img{
+	width:20px;
+	height:20px;
+	float:right;
+}
+/* .bj{
+	width:70%;
+	height:50px;
+	font-size:20px;
+	margin:auto;
+	color:white;
+	line-height:50px;
+	text-align:center;
+	border: 1px solid #ccc;
+	background-color: #ccc;
+} */
+.bj a{
+	color: white;
+}
+
+.shang{
+	width:80%;
+	height:70px;
+	border-bottom: 1px solid #ccc;
+}
+.ti1{
+	width:130px;
+	height:35px;
+	font-size:24px;
+	margin-left:30px;
+	margin-top:25px;
+	text-align:center;
+	float:left;
+}
+.ti2{
+	width:100px;
+	height:35px;
+	font-size:24px;
+	margin-left:10px;
+	margin-top:25px;
+	text-align:center;
+	float:left;
+}
+.ti3{
+	width:100px;
+	height:35px;
+	font-size:24px;
+	margin-left:10px;
+	margin-top:25px;
+	text-align:center;
+	float:left;
+}
+.ssk{
+	float:right;
+	margin-top:30px;
+	margin-right:15px;
+}
+.jingdian{
+	width:80%;
+	height:730px;
+	
+}
+img:hover
+{
+	opacity: 0.6;
+}
+.dian1{
+	margin-top:35px;
+	width:20%;
+	height:200px;
+	margin-left:70px;
+	float:left;
+}
+.dian1 img{
+	width:100%;
+	height:170px;
+	float:left;
+}
+.ming1{
+	margin-top:5px;
+	width:120px;
+	height:30px;
+	text-align:center;
+	margin-left:50px;
+	font-size:23px;
+}

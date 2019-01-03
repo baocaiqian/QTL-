@@ -1,0 +1,14 @@
+/* ThemeColor */
+.thcolor,.thcolorhover:hover,.kd-services article:hover h2 a,.kd-blog-list article:hover h2 a,.widget-blogpost ul li:hover h6 a,.kd-team article:hover h5 a,.kd-404 h1 {
+  color: #c09b75 !important;
+}
+
+.thbg-color,.thbg-colorhover:hover,.kd-topbar,#lang_sel ul li ul,.navbar-nav > li > a:before,.sub-dropdown li:before,.kd-usernetwork:before,
+.nav-tabs > li.active > a,.nav-tabs > li > a:hover, .nav-tabs > li.active > a:focus,.input-group-addon,.kd-team figure:before,.kd-tag ul li:hover a,
+.kd-gallery ul li figure figcaption:before,.pagination a:before,.pagination a:after,/*Widget*/.widget_categories ul li:hover,.widget_archive ul li:hover,
+.widget_search form input[type="submit"],.widget_tag a:hover,.kd-section-title h3:before,.kd-section-title h2:before,.kd-widget-title h2:before {
+  background-color: #c09b75 !important;
+}
+.th-bordercolor,.th-bordercolorhover:hover,blockquote,.kd-user-tag,.sub-dropdown {
+  border-color: #c09b75 !important;
+}
